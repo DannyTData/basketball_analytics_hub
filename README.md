@@ -10,8 +10,6 @@ An interactive R Shiny application for NBA Draft evaluation, rookie success pred
 
 ## Dashboard Preview
 
-![Home Dashboard](home-dashboard.png)
-
 ## 🏠 Home Dashboard
 
 ![Home Dashboard](images/home-dashboard.png)
